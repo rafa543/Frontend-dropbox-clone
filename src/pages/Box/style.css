@@ -8,6 +8,9 @@
   justify-content: center;
   align-items: center;
 }
+#box-container header img {
+  width: 160px;
+}
 
 #box-container header h1 {
   font-size: 21px;
