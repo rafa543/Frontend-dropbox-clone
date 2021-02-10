@@ -4,6 +4,7 @@
     <a href="https://pt-br.reactjs.org/">🔗 Clone Dropbox</a>
 </h1>
 <p align="center">🚀 Clone da aplicação Dropbox feita com ReactJS</p>
+<p align="center">https://dropbox-clone-frontend.herokuapp.com/</p>
 
 
 <p align="center">
@@ -14,7 +15,8 @@
 ### Features
 
 - [x] Cadastro de usuário
-- [ ] Faz upload de arquivos
+
+- [x] Fazer uploads de arquivos
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -28,7 +30,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54370234?s=460&u=8cb74662714aa4dabab022efff7e863f8883556e&v=4" width="100px;" alt=""/>
+ <img style="max-width:100%;border-radius: 51px;;" src="https://avatars.githubusercontent.com/u/54370234?s=460&u=8cb74662714aa4dabab022efff7e863f8883556e&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Rafael Araujo</b></sub> 🚀
 
